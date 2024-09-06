@@ -1,7 +1,6 @@
 import socket
-import threading, wave, pyaudio,pickle,struct
-import time
-import sys
+import pyaudio
+
 
 import pyaudio
 
