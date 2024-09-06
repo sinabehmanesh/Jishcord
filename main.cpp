@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-    printf("this is addddd");
+    printf("test");
     return 0;
 }
